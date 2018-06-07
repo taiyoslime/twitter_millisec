@@ -1,0 +1,13 @@
+{
+    "name": "twitter_millisec",
+    "version": "0.0.1",
+    "manifest_version": 2,
+    "description": "",
+    "permissions": [
+        "tabs","https://twitter.com/*"
+    ],
+    "background": {
+        "scripts": ["background.js"],
+        "persistent": false
+    }
+}

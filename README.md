@@ -1,5 +1,7 @@
 # twitter_millisec
 
+tweetの投稿時刻をミリ秒単位で表示するChrome拡張
+
 ![hogehoge](http://i.imgur.com/37awUkn.png)
 
 # Installation
